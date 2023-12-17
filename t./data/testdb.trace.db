@@ -1,0 +1,195 @@
+2023-10-22 15:33:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id)) [42001-214]
+2023-10-22 15:37:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 15:40:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 15:40:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 15:43:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id)) [42001-214]
+2023-10-22 15:45:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 15:48:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id)) [42001-214]
+2023-10-22 15:48:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 15:48:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 16:00:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 16:00:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id)) [42001-214]
+2023-10-22 16:01:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 16:06:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 16:06:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 16:07:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id)) [42001-214]
+2023-10-22 16:07:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id)) [42001-214]
+2023-10-22 16:08:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 16:11:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from [*]user u1_0 where u1_0.id=?"; expected "identifier"; SQL statement:
+select u1_0.id,u1_0.email,u1_0.picture,u1_0.username from user u1_0 where u1_0.id=? [42001-214]
+2023-10-22 16:14:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, email varchar(255), picture varchar(255), username varchar(255), primary key (id)) [42001-214]
+2023-10-22 20:03:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table messages (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table messages (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 20:03:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found; SQL statement:
+alter table if exists chatrooms_messages add constraint FK7meloppsor6vm8ioy1ceihrdl foreign key (messages_id) references messages [42102-214]
+2023-10-22 20:09:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.[*]value from messages m1_0"; expected "identifier"; SQL statement:
+select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.value from messages m1_0 [42001-214]
+2023-10-22 20:12:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from messages m1_0 left join chatrooms c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from messages m1_0 left join chatrooms c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 20:14:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from messages m1_0 left join chatrooms c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from messages m1_0 left join chatrooms c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 20:14:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table messages (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table messages (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 20:14:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found; SQL statement:
+alter table if exists chatrooms_messages add constraint FK7meloppsor6vm8ioy1ceihrdl foreign key (messages_id) references messages [42102-214]
+2023-10-22 20:16:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.[*]value from messages m1_0"; expected "identifier"; SQL statement:
+select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.value from messages m1_0 [42001-214]
+2023-10-22 20:19:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table messages (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table messages (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 20:19:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found; SQL statement:
+alter table if exists chatrooms_messages add constraint FK7meloppsor6vm8ioy1ceihrdl foreign key (messages_id) references messages [42102-214]
+2023-10-22 20:19:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.[*]value from messages m1_0"; expected "identifier"; SQL statement:
+select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.value from messages m1_0 [42001-214]
+2023-10-22 20:19:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.[*]value from messages m1_0"; expected "identifier"; SQL statement:
+select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.value from messages m1_0 [42001-214]
+2023-10-22 20:19:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from messages m1_0 left join chatrooms c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from messages m1_0 left join chatrooms c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 20:20:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table messages (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table messages (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 20:20:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found; SQL statement:
+alter table if exists chatrooms_messages add constraint FK7meloppsor6vm8ioy1ceihrdl foreign key (messages_id) references messages [42102-214]
+2023-10-22 20:22:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table message (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table message (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 20:22:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+alter table if exists chatroom_messages add constraint FKkkc61de9ni99jvicp2lncegkv foreign key (messages_id) references message [42102-214]
+2023-10-22 20:22:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 20:22:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 20:22:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 20:22:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 22:36:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table message (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table message (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 22:36:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+alter table if exists chatroom_messages add constraint FKkkc61de9ni99jvicp2lncegkv foreign key (messages_id) references message [42102-214]
+2023-10-22 22:36:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table message (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table message (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 22:36:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+alter table if exists chatroom_messages add constraint FKkkc61de9ni99jvicp2lncegkv foreign key (messages_id) references message [42102-214]
+2023-10-22 22:37:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 22:37:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 22:37:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from message m1_0 left join chatroom c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 22:38:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table message (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table message (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 22:38:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+alter table if exists chatroom_messages add constraint FKkkc61de9ni99jvicp2lncegkv foreign key (messages_id) references message [42102-214]
+2023-10-22 22:40:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table message (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table message (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 22:40:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+alter table if exists chatroom_messages add constraint FKkkc61de9ni99jvicp2lncegkv foreign key (messages_id) references message [42102-214]
+2023-10-22 22:41:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table message (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table message (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 22:41:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+alter table if exists chatroom_messages add constraint FKkkc61de9ni99jvicp2lncegkv foreign key (messages_id) references message [42102-214]
+2023-10-22 22:48:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table message (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table message (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 22:48:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+alter table if exists chatroom_messages add constraint FKkkc61de9ni99jvicp2lncegkv foreign key (messages_id) references message [42102-214]
+2023-10-22 22:51:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table messages (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table messages (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 22:51:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found; SQL statement:
+alter table if exists chatrooms_messages add constraint FK7meloppsor6vm8ioy1ceihrdl foreign key (messages_id) references messages [42102-214]
+2023-10-22 23:09:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table messages (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table messages (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 23:09:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found; SQL statement:
+alter table if exists chatrooms_messages add constraint FK7meloppsor6vm8ioy1ceihrdl foreign key (messages_id) references messages [42102-214]
+2023-10-22 23:21:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.[*]value from messages m1_0"; expected "identifier"; SQL statement:
+select m1_0.id,m1_0.chatroom_id,m1_0.time,m1_0.user_id,m1_0.value from messages m1_0 [42001-214]
+2023-10-22 23:22:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table messages (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table messages (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 23:22:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found; SQL statement:
+alter table if exists chatrooms_messages add constraint FK7meloppsor6vm8ioy1ceihrdl foreign key (messages_id) references messages [42102-214]
+2023-10-22 23:26:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.[*]value from messages m1_0 left join chatrooms c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=?"; expected "identifier"; SQL statement:
+select m1_0.id,c1_0.id,c1_0.icon_url,c1_0.name,m1_0.time,u1_0.id,u1_0.email,u1_0.picture,u1_0.username,m1_0.value from messages m1_0 left join chatrooms c1_0 on c1_0.id=m1_0.chatroom_id left join users u1_0 on u1_0.id=m1_0.user_id where m1_0.id=? [42001-214]
+2023-10-22 23:37:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table messages (id bigint not null, time timestamp(6), [*]value varchar(255), chatroom_id bigint, user_id bigint, primary key (id))"; expected "identifier"; SQL statement:
+create table messages (id bigint not null, time timestamp(6), value varchar(255), chatroom_id bigint, user_id bigint, primary key (id)) [42001-214]
+2023-10-22 23:37:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGES" not found; SQL statement:
+alter table if exists chatrooms_messages add constraint FK7meloppsor6vm8ioy1ceihrdl foreign key (messages_id) references messages [42102-214]
